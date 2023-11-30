@@ -1,0 +1,34 @@
+﻿[Script Info]
+Title: Translation File
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: None
+Original Script: OGS
+PlayResX: 1920
+PlayResY: 1080
+Original Translation: TK
+Original Editing: ED
+Original Timing: TIMING
+Synch Point: SYNC POINT
+Script Updated By: UPDATED BY
+Update Details: UPDATED DETAILS
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Video File: ?dummy:23.976000:40000:1920:1080:2:130:255:
+Video AR Value: 1.777778
+Video Zoom Percent: 0.250000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Adobe Arabic,52,&H00FFFFFF,&H000000FF,&H00000000,&H80000001,-1,0,0,0,100,100,0,0,1,2.4,1,2,10,10,40,1
+Style: Test,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,-1,-1,100,100,0,0,3,2,2,2,10,10,10,1
+Style: Defaulted,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 10,0:00:00.00,0:00:05.00,Default,NPC,0,0,0,READ,dialogue
+Comment: 10,0:00:05.00,0:00:08.00,Default,NPC,0,0,0,READ,comment
+Dialogue: 10,0:00:08.00,0:00:11.00,Default,NPC,0,0,0,READ,
+Dialogue: 0,0:00:11.00,0:00:14.00,Default,,0,0,0,,

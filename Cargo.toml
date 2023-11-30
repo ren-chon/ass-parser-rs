@@ -1,0 +1,13 @@
+[package]
+name = "ass_parser"
+version = "0.1.0"
+authors = ["<ren-chon>@github"]
+description = "experimental crate for parsing .ass files."
+license = "MIT"
+edition = "2021"
+repository = "https://github.com/ren-chon/ass-parser-rs"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nom = "7.1.3"
